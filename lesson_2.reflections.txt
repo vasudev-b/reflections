@@ -1,0 +1,1 @@
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
